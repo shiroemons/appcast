@@ -3,14 +3,26 @@
     <channel>
         <title>SnapOCR</title>
         <item>
+            <title>0.1.2</title>
+            <pubDate>Fri, 27 Mar 2026 15:58:40 +0000</pubDate>
+            <sparkle:version>0.1.2</sparkle:version>
+            <sparkle:shortVersionString>0.1.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[]]></description>
+            <enclosure url="https://github.com/shiroemons/snapocr/releases/download/v0.1.2/SnapOCR-0.1.2.dmg" length="3772414" type="application/octet-stream" sparkle:edSignature="ytgDuGP5ezcIhw9XQnHZVxXK87IF6c+sywFZqdCVVl4fOU2R3oFeQAQeQ/2KRR3FSjDi6QRKu/oGmZd1ZgAWCg=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/shiroemons/snapocr/releases/download/v0.1.2/SnapOCR0.1.2-0.1.1.delta" sparkle:deltaFrom="0.1.1" length="58482" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Yaegb3jDBoUY0dDuTUpfQlpYFuqwMUVg1Hgg3xprSGv6GctrHomzkSIN//aX92grwrc3YbarvidHmzjNUyAXCg=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.1.1</title>
-            <pubDate>Fri, 27 Mar 2026 15:28:05 +0000</pubDate>
+            <pubDate>Fri, 27 Mar 2026 15:58:42 +0000</pubDate>
             <sparkle:version>0.1.1</sparkle:version>
             <sparkle:shortVersionString>0.1.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description><![CDATA[]]></description>
-            <enclosure url="https://github.com/shiroemons/snapocr/releases/download/v0.1.1/SnapOCR-0.1.1.dmg" length="3773501" type="application/octet-stream" sparkle:edSignature="9dkUxwhk5qQxjXeFJRvvctxaTqcrVR4Gi8Ko02Ytc4QO/b2gMyjRWoc+2GqbAGKu3SDlJZ1T6qgFfB/+IUvNDA=="/>
+            <enclosure url="https://github.com/shiroemons/snapocr/releases/download/v0.1.2/SnapOCR-0.1.1.dmg" length="3773501" type="application/octet-stream" sparkle:edSignature="9dkUxwhk5qQxjXeFJRvvctxaTqcrVR4Gi8Ko02Ytc4QO/b2gMyjRWoc+2GqbAGKu3SDlJZ1T6qgFfB/+IUvNDA=="/>
         </item>
     </channel>
 </rss>
