@@ -3,18 +3,6 @@
     <channel>
         <title>SnapOCR</title>
         <item>
-            <title>0.1.0</title>
-            <pubDate>Fri, 27 Mar 2026 15:28:07 +0000</pubDate>
-            <sparkle:version>1</sparkle:version>
-            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/shiroemons/snapocr/releases/download/v0.1.1/SnapOCR-0.1.0.dmg" length="3772623" type="application/octet-stream" sparkle:edSignature="vs5lGPrEuLECAOLiR6xJphnTSbUeh5pl5k2y3ljUqSXKhQWxkI7rblOyH4V+KIIvIubA4sGwXxW+0iXBsjqkAA=="/>
-            <sparkle:deltas>
-                <enclosure url="https://github.com/shiroemons/snapocr/releases/download/v0.1.1/SnapOCR1-0.1.1.delta" sparkle:deltaFrom="0.1.1" length="47858" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="2Kz5QSkt3obXmwqBXnIX0e2K/MuqIW1cXstsPpzv2+g/TpBfeJoMTF9IHhH2YZdMNx7JYSShluhdQw11QrC1Bw=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
             <title>0.1.1</title>
             <pubDate>Fri, 27 Mar 2026 15:28:05 +0000</pubDate>
             <sparkle:version>0.1.1</sparkle:version>
