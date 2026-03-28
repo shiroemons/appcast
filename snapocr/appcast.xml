@@ -3,36 +3,37 @@
     <channel>
         <title>SnapOCR</title>
         <item>
+            <title>0.1.4</title>
+            <pubDate>Sat, 28 Mar 2026 03:18:04 +0000</pubDate>
+            <sparkle:version>0.1.4</sparkle:version>
+            <sparkle:shortVersionString>0.1.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[]]></description>
+            <enclosure url="https://github.com/shiroemons/snapocr/releases/download/v0.1.4/SnapOCR-0.1.4.dmg" length="7852190" type="application/octet-stream" sparkle:edSignature="x4zDkHRiiZkHPqHWzn4R4MssmglUak8yFOvPjRLwhFKV7FL47V0dulQFD25ujm5RWLIh7Ma4lPNt0FRCZS3NDA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/shiroemons/snapocr/releases/download/v0.1.4/SnapOCR0.1.4-0.1.3.delta" sparkle:deltaFrom="0.1.3" length="1502042" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="kKcPHzbvqiwWvse0okhd2mHORZRMu09j6rgDh3IBy3DQ9II7Eo6/wUPnm5KdKk1if6X5NrqdK2cWn+0UsMu6AA=="/>
+                <enclosure url="https://github.com/shiroemons/snapocr/releases/download/v0.1.4/SnapOCR0.1.4-0.1.2.delta" sparkle:deltaFrom="0.1.2" length="1501834" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="vPwKwrUNpvm8L239AQtp7K2ZRNSLp/4Z4BVBB9G97zjj1UqkOYzAlBx9bsbFtJ1byQuhe0eZS/Fmyip96066Cw=="/>
+                <enclosure url="https://github.com/shiroemons/snapocr/releases/download/v0.1.4/SnapOCR0.1.4-0.1.1.delta" sparkle:deltaFrom="0.1.1" length="1514326" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="eFazwsxr+8gfXDzbe/aZBuLAZInioz4KIy+Im+vBC/T8INb53UkPuMZbF8QGz95zmcMjuJebnH4UVAXyQR+RAQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.1.3</title>
-            <pubDate>Sat, 28 Mar 2026 01:34:35 +0000</pubDate>
+            <pubDate>Sat, 28 Mar 2026 03:18:06 +0000</pubDate>
             <sparkle:version>0.1.3</sparkle:version>
             <sparkle:shortVersionString>0.1.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description><![CDATA[]]></description>
-            <enclosure url="https://github.com/shiroemons/snapocr/releases/download/v0.1.3/SnapOCR-0.1.3.dmg" length="4239831" type="application/octet-stream" sparkle:edSignature="eAfNBxawLHLaTDKRqD8AP8wTiA2eQNuVD7jLzZN4lLKw+U1blrqIja+S7GmGK8OjTqJze/rRk0YQUPsgT4gxAA=="/>
-            <sparkle:deltas>
-                <enclosure url="https://github.com/shiroemons/snapocr/releases/download/v0.1.3/SnapOCR0.1.3-0.1.2.delta" sparkle:deltaFrom="0.1.2" length="11166" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="3Th7QxT3NbVdV57nDqp3tCX8JML05lKIyxaSV1AED2XIbWWatwa/1Tw9DRI5WRxW/94Jy4as/qwexErvS3JABQ=="/>
-                <enclosure url="https://github.com/shiroemons/snapocr/releases/download/v0.1.3/SnapOCR0.1.3-0.1.1.delta" sparkle:deltaFrom="0.1.1" length="58398" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="piP+vZyKqDBQeAq91wYDLP4qBoTyMDNs72RM0oikI3UNVn4CDjWGpmteyzH+EMr0Mxa/+5Gl7ZH3gq7cCY3kCA=="/>
-            </sparkle:deltas>
+            <enclosure url="https://github.com/shiroemons/snapocr/releases/download/v0.1.4/SnapOCR-0.1.3.dmg" length="4239831" type="application/octet-stream" sparkle:edSignature="eAfNBxawLHLaTDKRqD8AP8wTiA2eQNuVD7jLzZN4lLKw+U1blrqIja+S7GmGK8OjTqJze/rRk0YQUPsgT4gxAA=="/>
         </item>
         <item>
             <title>0.1.2</title>
-            <pubDate>Sat, 28 Mar 2026 01:34:37 +0000</pubDate>
+            <pubDate>Sat, 28 Mar 2026 03:18:07 +0000</pubDate>
             <sparkle:version>0.1.2</sparkle:version>
             <sparkle:shortVersionString>0.1.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/shiroemons/snapocr/releases/download/v0.1.3/SnapOCR-0.1.2.dmg" length="3772414" type="application/octet-stream" sparkle:edSignature="ytgDuGP5ezcIhw9XQnHZVxXK87IF6c+sywFZqdCVVl4fOU2R3oFeQAQeQ/2KRR3FSjDi6QRKu/oGmZd1ZgAWCg=="/>
-        </item>
-        <item>
-            <title>0.1.1</title>
-            <pubDate>Sat, 28 Mar 2026 01:34:38 +0000</pubDate>
-            <sparkle:version>0.1.1</sparkle:version>
-            <sparkle:shortVersionString>0.1.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/shiroemons/snapocr/releases/download/v0.1.3/SnapOCR-0.1.1.dmg" length="3773501" type="application/octet-stream" sparkle:edSignature="9dkUxwhk5qQxjXeFJRvvctxaTqcrVR4Gi8Ko02Ytc4QO/b2gMyjRWoc+2GqbAGKu3SDlJZ1T6qgFfB/+IUvNDA=="/>
+            <enclosure url="https://github.com/shiroemons/snapocr/releases/download/v0.1.4/SnapOCR-0.1.2.dmg" length="3772414" type="application/octet-stream" sparkle:edSignature="ytgDuGP5ezcIhw9XQnHZVxXK87IF6c+sywFZqdCVVl4fOU2R3oFeQAQeQ/2KRR3FSjDi6QRKu/oGmZd1ZgAWCg=="/>
         </item>
     </channel>
 </rss>
