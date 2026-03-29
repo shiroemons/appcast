@@ -3,14 +3,14 @@
     <channel>
         <title>SnapOCR</title>
         <item>
-            <title>0.1.8</title>
-            <pubDate>Sun, 29 Mar 2026 05:15:09 +0000</pubDate>
-            <sparkle:version>0.1.8</sparkle:version>
-            <sparkle:shortVersionString>0.1.8</sparkle:shortVersionString>
+            <title>0.1.9</title>
+            <pubDate>Sun, 29 Mar 2026 12:15:47 +0000</pubDate>
+            <sparkle:version>0.1.9</sparkle:version>
+            <sparkle:shortVersionString>0.1.9</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
             <description><![CDATA[]]></description>
-            <enclosure url="https://github.com/shiroemons/snapocr/releases/download/v0.1.8/SnapOCR-0.1.8.dmg" length="7894032" type="application/octet-stream" sparkle:edSignature="h2ljZaQ4MXJtwbjlqDkt0hjjTYcDwU0GYBtCXS2wAZ2z/jlYEvlyyFFqzVQEUtTNAFpxigjk6PQ9veIxeBOWBQ=="/>
+            <enclosure url="https://github.com/shiroemons/snapocr/releases/download/v0.1.9/SnapOCR-0.1.9.dmg" length="7861323" type="application/octet-stream" sparkle:edSignature="1xNj1UEz7Y1KjS6OQoLQo+1jqPJclqvsgJSGw5UyGq51gWgmkSkd9xWjD6k9dYZkG8NINqFgJfow1XW7sC7JCw=="/>
         </item>
     </channel>
 </rss>
