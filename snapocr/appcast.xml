@@ -4,29 +4,23 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>SnapOCR</title>
         <item>
-            <title>1.1.0</title>
-            <pubDate>Fri, 06 Nov 2026 05:27:14 +0000</pubDate>
-            <sparkle:version>1.1.0</sparkle:version>
-            <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
+            <title>1.1.1</title>
+            <pubDate>Fri, 06 Nov 2026 05:55:34 +0000</pubDate>
+            <sparkle:version>1.1.1</sparkle:version>
+            <sparkle:shortVersionString>1.1.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="markdown"><![CDATA[**Important:** SnapOCR now runs in the App Sandbox. OCR history from earlier versions is not carried over. Your settings are kept.
+            <description sparkle:format="markdown"><![CDATA[SnapOCR now verifies the signature of its update feed. No action is needed.
 
-**重要:** SnapOCR は App Sandbox で動作するようになりました。以前のバージョンの OCR 履歴は引き継がれません。設定は引き継がれます。
+SnapOCR は更新情報（フィード）の署名を検証するようになりました。操作は必要ありません。
 
 
-## What's Changed
-* fix: address code review findings and enable App Sandbox in distributed builds by @shiroemons in https://github.com/shiroemons/snapocr/pull/1
-
-## New Contributors
-* @shiroemons made their first contribution in https://github.com/shiroemons/snapocr/pull/1
-
-**Full Changelog**: https://github.com/shiroemons/snapocr/compare/v1.0.0...v1.1.0
+**Full Changelog**: https://github.com/shiroemons/snapocr/compare/v1.1.0...v1.1.1
 ]]></description>
-            <enclosure url="https://github.com/shiroemons/snapocr/releases/download/v1.1.0/SnapOCR.dmg" length="7882514" type="application/octet-stream" sparkle:edSignature="IJf/SvFIucgGB0fhLP2uE883OV1Yo1qOqP9FfamQkzjHAQ2FLXBp9oDjJLSW/RNNUUWxRVOIyoKezeJLaJEwDA=="></enclosure>
+            <enclosure url="https://github.com/shiroemons/snapocr/releases/download/v1.1.1/SnapOCR.dmg" length="7882512" type="application/octet-stream" sparkle:edSignature="yHbJLHEwzk2LrnDFxanloJWRdvZXOd7SvHPsG2JRVwQJBbMC0M/nT2QHJEZiFPo4y7NTLeH8cLSKlKV2iMr8CQ=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: slTnt0zkeSuB21H5a9GlQ7InpPefcwIaP2cnQV4qIi3i9depODy3brKf1au40lYYG+RUJexrC8TTxJAlzvWfCw==
-length: 1867
+edSignature: bTueiscKHJGo2q/qq629pzUtRPEztSqb4SJF9DPi78VLoGaKOfDRawcN3+z9gQkXxNS5OrAk2REm+XrkcvPVBw==
+length: 1482
 -->
