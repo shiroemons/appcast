@@ -1,16 +1,32 @@
-<?xml version="1.0" standalone="yes"?>
-<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+<?xml version="1.0" standalone="yes"?><!-- sparkle-sign-warning:
+IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
+--><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <title>SnapOCR</title>
         <item>
-            <title>1.0.0</title>
-            <pubDate>Wed, 01 Apr 2026 14:25:34 +0000</pubDate>
-            <sparkle:version>1.0.0</sparkle:version>
-            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+            <title>1.1.0</title>
+            <pubDate>Fri, 06 Nov 2026 05:27:14 +0000</pubDate>
+            <sparkle:version>1.1.0</sparkle:version>
+            <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description><![CDATA[]]></description>
-            <enclosure url="https://github.com/shiroemons/snapocr/releases/download/v1.0.0/SnapOCR.dmg" length="7886354" type="application/octet-stream" sparkle:edSignature="EtXJS5aLZ6alpnnCRmkdXsRQsHqWHWKDHjbPkVn7hZPFljy2paTz2IXx20Cy+e9j89+3EzWVDe/9oMx5u98xBQ=="/>
+            <description sparkle:format="markdown"><![CDATA[**Important:** SnapOCR now runs in the App Sandbox. OCR history from earlier versions is not carried over. Your settings are kept.
+
+**重要:** SnapOCR は App Sandbox で動作するようになりました。以前のバージョンの OCR 履歴は引き継がれません。設定は引き継がれます。
+
+
+## What's Changed
+* fix: address code review findings and enable App Sandbox in distributed builds by @shiroemons in https://github.com/shiroemons/snapocr/pull/1
+
+## New Contributors
+* @shiroemons made their first contribution in https://github.com/shiroemons/snapocr/pull/1
+
+**Full Changelog**: https://github.com/shiroemons/snapocr/compare/v1.0.0...v1.1.0
+]]></description>
+            <enclosure url="https://github.com/shiroemons/snapocr/releases/download/v1.1.0/SnapOCR.dmg" length="7882514" type="application/octet-stream" sparkle:edSignature="IJf/SvFIucgGB0fhLP2uE883OV1Yo1qOqP9FfamQkzjHAQ2FLXBp9oDjJLSW/RNNUUWxRVOIyoKezeJLaJEwDA=="></enclosure>
         </item>
     </channel>
-</rss>
+</rss><!-- sparkle-signatures:
+edSignature: slTnt0zkeSuB21H5a9GlQ7InpPefcwIaP2cnQV4qIi3i9depODy3brKf1au40lYYG+RUJexrC8TTxJAlzvWfCw==
+length: 1867
+-->
